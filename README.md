@@ -108,7 +108,7 @@ print(f"Predicted Air Quality Class: {predicted_class}")
 This project is open-source and available under the MIT License.
 
 ## Author
-[Your Name]
+Dilyan Grigorov
 
 ## Acknowledgments
 - **TensorFlow & Keras:** For deep learning framework.
